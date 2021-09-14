@@ -1,0 +1,158 @@
+Aatrox, Juggernaut,,3,3,2,2,2,,Physical,2
+Ahri, Burst,,3,1,2,3,1,,Magic,2
+Akali, Assassin,,3,1,1,3,1,,Physical,2
+Akshan, Marksman,,3,1,1,3,2,,Physical,3
+Alistar, Vanguard,,1,3,3,1,2,,Magic,1
+Amumu, Vanguard,,2,3,3,1,1,,Magic,1
+Anivia, Battlemage,,3,1,3,1,2,,Magic,3
+Annie, Burst,,3,1,3,1,2,,Magic,1
+Aphelios, Marksman,,3,1,2,1,1,,Physical,3
+Ashe, Marksman,,2,1,3,1,2,,Physical,1
+Aurelion Sol, Battlemage,,3,1,2,2,1,,Magic,3
+Azir, Specialist,,3,1,2,2,1,,Magic,2
+Bard, Catcher,,1,1,3,2,3,,Magic,3
+Blitzcrank, Catcher,,1,2,3,1,1,,Magic,1
+Brand, Burst,,3,1,2,1,1,,Magic,2
+Braum, Warden,,1,2,3,1,2,,Magic,2
+Caitlyn, Marksman,,3,1,2,2,1,,Physical,1
+Camille, Diver,,3,2,2,3,1,,Physical,3
+Cassiopeia, Battlemage,,3,1,3,1,1,,Magic,3
+Cho'Gath, Specialist,,2,3,2,1,1,,Magic,1
+Corki, Marksman,,3,1,1,2,1,,Physical,2
+Darius, Juggernaut,,3,2,2,1,1,,Physical,2
+Diana, Assassin, Diver,3,2,2,2,1,,Magic,1
+Dr. Mundo, Juggernaut,,2,3,1,1,1,,Physical,1
+Draven, Marksman,,3,1,1,2,1,,Physical,2
+Ekko, Assassin,,3,2,2,3,1,,Magic,3
+Elise, Diver,,2,2,2,2,1,,Magic,2
+Evelynn, Assassin,,2,2,1,2,2,,Magic,2
+Ezreal, Marksman,,3,1,1,3,1,,Physical,1
+Fiddlesticks, Specialist,,3,1,3,1,1,,Magic,2
+Fiora, Skirmisher,,3,2,2,2,2,,Physical,2
+Fizz, Assassin,,3,1,2,3,1,,Magic,2
+Galio, Warden,,2,3,3,2,1,,Magic,2
+Gangplank, Specialist,,3,1,1,1,2,,Physical,3
+Garen, Juggernaut,,2,3,1,1,1,,Physical,1
+Gnar, Specialist,,2,1,1,2,1,,Physical,2
+Gragas, Vanguard,,2,3,3,2,1,,Magic,2
+Graves, Specialist,,3,2,1,2,2,,Physical,2
+Gwen, Skirmisher,,3,2,1,3,1,,Magic,2
+Hecarim, Diver,,2,2,2,2,1,,Physical,2
+Heimerdinger, Specialist,,3,1,2,1,2,,Magic,2
+Illaoi, Juggernaut,,3,2,1,1,1,,Physical,2
+Irelia, Diver,,2,2,2,3,2,,Physical,2
+Ivern, Catcher,,1,1,3,2,3,,Magic,3
+Janna, Enchanter,,1,1,3,1,3,,Magic,1
+Jarvan IV, Diver,,2,2,2,2,2,,Physical,1
+Jax, Skirmisher,,3,2,2,2,1,,Physical,1
+Jayce, Artillery,,3,1,1,2,2,,Physical,2
+Jhin, Marksman, Catcher,3,1,2,1,1,,Physical,2
+Jinx, Marksman,,3,1,2,1,1,,Physical,2
+Kai'Sa, Marksman,,3,1,1,3,1,,Magic,1
+Kalista, Marksman,,3,1,1,3,2,,Physical,3
+Karma, Burst, Enchanter,2,1,2,1,2,,Magic,1
+Karthus, Battlemage,,3,1,1,1,2,,Magic,2
+Kassadin, Assassin,,3,2,1,3,1,,Magic,2
+Katarina, Assassin,,3,1,1,3,1,,Magic,2
+Kayle, Specialist,,3,1,1,1,3,,Physical,2
+Kayn, Skirmisher,,3,1,1,3,1,,Physical,3
+Kennen, Specialist,,3,1,3,1,1,,Magic,2
+Kha'Zix, Assassin,,3,1,1,2,1,,Physical,2
+Kindred, Marksman,,3,1,2,3,2,,Physical,3
+Kled & Skaarl, Skirmisher,,3,2,1,3,1,,Physical,2
+Kled, Skirmisher,,3,2,1,2,1,,Physical,2
+Kog'Maw, Marksman,,3,1,1,1,1,,Physical,2
+LeBlanc, Burst,,3,1,2,3,1,,Magic,2
+Lee Sin, Diver,,3,2,2,3,1,,Physical,2
+Leona, Vanguard,,1,3,3,1,1,,Physical,1
+Lillia, Skirmisher,,3,1,2,2,2,,Magic,3
+Lissandra, Burst,,3,1,3,2,1,,Magic,2
+Lucian, Marksman,,3,1,1,3,1,,Physical,2
+Lulu, Enchanter,,2,1,2,1,3,,Magic,2
+Lux, Burst, Artillery,3,1,2,1,2,,Magic,1
+Malphite, Vanguard,,1,3,3,1,1,,Magic,1
+Malzahar, Battlemage,,3,1,3,1,2,,Magic,1
+Maokai, Vanguard,,1,3,3,1,2,,Magic,1
+Master Yi, Skirmisher,,3,1,1,2,1,,Physical,1
+Mega Gnar, Vanguard,,2,3,2,1,1,,Physical,2
+Miss Fortune, Marksman,,3,1,1,1,1,,Physical,1
+Mordekaiser, Juggernaut,,3,2,1,1,2,,Magic,2
+Morgana, Catcher,,2,1,3,1,2,,Magic,1
+Nami, Enchanter,,1,1,3,1,2,,Magic,2
+Nasus, Juggernaut,,2,3,2,1,1,,Physical,1
+Nautilus, Vanguard,,1,3,3,1,1,,Magic,2
+Neeko, Burst, Catcher,3,1,3,1,1,,Magic,1
+Nidalee, Specialist,,3,1,1,3,2,,Magic,2
+Nocturne, Assassin,,3,1,2,2,2,,Physical,1
+Nunu & Willump, Vanguard,,1,3,2,1,2,,Magic,1
+Olaf, Diver,,2,2,2,1,1,,Physical,1
+Orianna, Burst,,2,1,2,1,2,,Magic,2
+Ornn, Vanguard,,1,3,3,1,2,,Physical,2
+Pantheon, Diver,,3,2,2,2,1,,Physical,1
+Poppy, Warden,,2,3,3,2,1,,Physical,2
+Pyke, Assassin, Catcher,2,1,3,3,1,,Physical,2
+Qiyana, Assassin,,3,1,2,2,1,,Physical,2
+Quinn, Specialist,,3,1,2,3,1,,Physical,2
+Rakan, Catcher,,1,2,3,3,3,,Magic,2
+Rammus, Vanguard,,2,3,3,2,1,,Physical,1
+Rek'Sai, Diver,,2,2,2,2,2,,Physical,2
+Rell, Vanguard,,1,3,3,2,2,,Magic,2
+Renekton, Diver,,2,2,2,2,1,,Physical,1
+Rengar, Assassin, Diver,3,1,2,2,1,,Physical,2
+Riven, Skirmisher,,3,2,2,3,1,,Physical,1
+Rumble, Battlemage,,3,2,2,1,1,,Magic,2
+Ryze, Battlemage,,3,1,2,2,2,,Magic,2
+Samira, Marksman,,3,2,1,3,1,,Physical,2
+Sejuani, Vanguard,,2,2,3,2,1,,Magic,2
+Senna, Marksman, Enchanter,2,1,2,1,3,,Physical,2
+Seraphine, Burst, Enchanter,3,1,3,1,2,,Magic,1
+Sett, Juggernaut,,2,2,2,2,1,,Physical,2
+Shaco, Assassin,,3,1,2,2,2,,Physical,2
+Shen, Warden,,2,3,2,2,3,,Physical,2
+Shyvana, Juggernaut,,2,2,1,2,1,,Physical,1
+Singed, Specialist,,2,3,2,2,1,,Magic,2
+Sion, Vanguard,,2,3,3,1,1,,Physical,1
+Sivir, Marksman,,3,1,1,1,2,,Physical,2
+Skarner, Diver,,1,3,3,1,1,,Physical,1
+Sona, Enchanter,,2,1,2,1,2,,Magic,1
+Soraka, Enchanter,,1,1,2,1,3,,Magic,1
+Swain, Battlemage,,2,2,2,1,1,,Magic,2
+Sylas, Burst, Skirmisher,2,2,1,3,1,,Magic,3
+Syndra, Burst,,3,1,2,1,1,,Magic,2
+Tahm Kench, Warden,,2,3,2,1,3,,Magic,1
+Taliyah, Battlemage,,3,1,2,1,3,,Magic,2
+Talon, Assassin,,3,1,1,2,1,,Physical,2
+Taric, Enchanter, Warden,1,2,2,1,3,,Physical,2
+Teemo, Specialist,,3,1,2,1,2,,Physical,1
+Thresh, Catcher,,1,2,3,1,3,,Physical,3
+Tristana, Marksman,,3,1,2,2,1,,Physical,1
+Trundle, Juggernaut,,2,3,1,1,2,,Physical,1
+Tryndamere, Skirmisher,,3,2,1,2,1,,Physical,1
+Twisted Fate, Burst,,3,1,2,2,2,,Magic,2
+Twitch, Marksman,,3,1,1,2,1,,Physical,2
+Udyr, Juggernaut,,2,3,2,2,1,,Physical,1
+Urgot, Juggernaut,,2,2,2,1,1,,Physical,2
+Varus, Marksman, Artillery,3,1,2,1,1,,Physical,2
+Vayne, Marksman,,3,1,2,2,1,,Physical,2
+Veigar, Burst,,3,1,3,1,1,,Magic,2
+Vel'Koz, Artillery,,3,1,2,1,1,,Magic,2
+Vi, Diver,,2,2,3,2,1,,Physical,1
+Viego, Skirmisher,,3,1,2,2,1,,Physical,3
+Viktor, Battlemage,,3,1,2,1,1,,Magic,3
+Vladimir, Battlemage,,3,2,1,1,1,,Magic,2
+Volibear, Juggernaut,,2,3,2,2,1,,Physical,1
+Warwick, Diver,,2,2,2,1,1,,Physical,1
+Wukong, Diver,,2,2,2,2,1,,Physical,1
+Xayah, Marksman,,3,2,3,1,1,,Physical,2
+Xerath, Artillery,,3,1,2,1,1,,Magic,2
+Xin Zhao, Diver,,2,2,2,2,1,,Physical,1
+Yasuo, Skirmisher,,3,1,2,3,2,,Physical,3
+Yone, Assassin, Skirmisher,3,1,2,3,1,,Physical,3
+Yorick, Juggernaut,,2,2,2,1,2,,Physical,2
+Yuumi, Enchanter,,1,1,1,3,3,,Magic,1
+Zac, Vanguard,,2,3,3,2,1,,Magic,1
+Zed, Assassin,,3,1,1,3,1,,Physical,3
+Ziggs, Artillery,,3,1,2,2,1,,Magic,2
+Zilean, Specialist,,2,1,2,2,3,,Magic,2
+Zoe, Burst,,3,1,2,2,1,,Magic,3
+Zyra, Catcher,,3,1,3,1,1,,Magic,2
