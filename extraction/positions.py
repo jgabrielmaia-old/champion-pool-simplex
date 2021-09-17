@@ -6,7 +6,7 @@ import os
 # Extracts the positions available for each champion
 # Positions: Top, Jungle, Middle, Bottom, Support, Unplayed
 
-def positions():
+def extract_positions():
   filename = "data/positions.txt"
   if os.path.isfile(filename):
     return
@@ -26,7 +26,7 @@ def positions():
 
   def extract_position(row):
     champion_draft = row.find_all('td')
-    champion_draft_name = champion_draft[0].text
+    champion_draft_name = champion_draft[0].text.replace('\'','')
     champion_row = [position.has_attr('data-sort-value') for position in champion_draft[1:]]
     champion_attributes = ','.join(is_position(str(c)) for c in champion_row)
     return f"{champion_draft_name.strip()},{champion_attributes}\n"

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 # Extracts the similar attributes for each champion
 # Attributes: Primary role, Secondary role, Damage, Toughness, Control, Mobility, Utility, Style (NULL), Damage Type, Difficulty 
 
-def similarity():
+def extract_similarity():
   filename = "data/similarity.txt"
   if os.path.isfile(filename):
     return
@@ -20,7 +20,7 @@ def similarity():
   
   def extract_similarity(row):
     similarity_champion = row.find_all("td")
-    similarity_attributes = [similarity_champion[attribute].text for attribute in range(11)]
+    similarity_attributes = [similarity_champion[attribute].text.replace('\'','') for attribute in (0,3,4,5,6,7,10)]
     return ','.join(similarity_attributes).strip() + '\n'
     
   similarity_champions = [extract_similarity(row) for row in similarity_rows]

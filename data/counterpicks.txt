@@ -1,75 +1,74 @@
-
 Aatrox,Malphite,Camille,Darius,Wukong,Poppy,Nasus
 Ahri,Katarina,Veigar,Lux,Viktor,Xerath,Brand
 Akali,Yasuo,Diana,Galio,Annie,Sylas,Vladimir
-Alistar,Lulu,Janna,Senna,Bardo,Leona,Maokai
-Amumu,Morgana,Dr. Mundo,Volibear,Kha'Zix,Vladimir,Brand
-Anivia,Ahri,Vel'Koz,Malphite,Seraphine,Zoe,Veigar
+Alistar,Lulu,Janna,Senna,Bard,Leona,Maokai
+Amumu,Morgana,Dr. Mundo,Volibear,KhaZix,Vladimir,Brand
+Anivia,Ahri,VelKoz,Malphite,Seraphine,Zoe,Veigar
 Annie,Zilean,Varus,Ahri,Senna,Nami,Morgana
-Aphelios,Jinx,Samira,Kai'Sa,Miss Fortune,Ashe,Jhin
-Ashe,Draven,Blitzcrank,Nami,Yasuo,Kindred,Kai'Sa
+Aphelios,Jinx,Samira,KaiSa,Miss Fortune,Ashe,Jhin
+Ashe,Draven,Blitzcrank,Nami,Yasuo,Kindred,KaiSa
 Aurelion Sol,Zed,Fizz,Sylas,Viktor,Ahri,Malzahar
 Azir,Lux,Annie,Orianna,Yasuo,Malzahar,Sylas
-Bard,Senna,Blitzcrank,Vel'Koz,Nami,Lux,Maokai
+Bard,Senna,Blitzcrank,VelKoz,Nami,Lux,Maokai
 Blitzcrank,Alistar,Leona,Morgana,Veigar,Nami,Brand
 Brand,Lulu,Fizz,Morgana,Janna,Pyke,Rakan
 Braum,Zilean,Rakan,Darius,Maokai,Neeko,Seraphine
 Caitlyn,Jinx,Twitch,Jhin,Varus,Tristana,Ezreal
-Camille,Cho'Gath,Jax,Warwick,Sion,Nasus,Lee Sin
+Camille,ChoGath,Jax,Warwick,Sion,Nasus,Lee Sin
 Cassiopeia,Yone,Katarina,Neeko,Sion,Varus,Ahri
-Cho'Gath,Mordekaiser,Ornn,Nocturne,Teemo,Quinn,Warwick
+ChoGath,Mordekaiser,Ornn,Nocturne,Teemo,Quinn,Warwick
 Corki,Anivia,Kassadin,Jinx,Katarina,Yone,Seraphine
-Darius,Malphite,Sett,Teemo,Cho'Gath,Jax,Mordekaiser
+Darius,Malphite,Sett,Teemo,ChoGath,Jax,Mordekaiser
 Diana,Morgana,Yasuo,Fiddlesticks,Warwick,Ekko,Xin Zhao
 Dr. Mundo,Kindred,Ekko,Shen,Sion,Camille,Morgana
 Draven,Jinx,Jhin,Swain,Senna,Corki,Seraphine
-Ekko,Kha'Zix,Shaco,Elise,Malzahar,LeBlanc,Morgana
+Ekko,KhaZix,Shaco,Elise,Malzahar,LeBlanc,Morgana
 Elise,Shaco,Fiddlesticks,Rammus,Udyr,Nocturne,Morgana
-Evelynn,Nunu e Willump,Xin Zhao,Rengar,Zac,Lee Sin,Warwick
-Ezreal,Jhin,Vayne,Tristana,Kai'Sa,Samira,Ashe
+Evelynn,Nunu,Xin Zhao,Rengar,Zac,Lee Sin,Warwick
+Ezreal,Jhin,Vayne,Tristana,KaiSa,Samira,Ashe
 Fiddlesticks,Zac,Senna,Nautilus,Seraphine,Sion,Vladimir
 Fiora,Sett,Wukong,Malphite,Gnar,Ornn,Darius
 Fizz,Sylas,Kassadin,Swain,Yasuo,Galio,Rumble
-Galio,Senna,Janna,Varus,Braum,Rakan,Cho'Gath
+Galio,Senna,Janna,Varus,Braum,Rakan,ChoGath
 Gangplank,Urgot,Sett,Nasus,Sion,Yone,Aatrox
-Garen,Camille,Cho'Gath,Darius,Kled,Nocturne,Yorick
+Garen,Camille,ChoGath,Darius,Kled,Nocturne,Yorick
 Gnar,Urgot,Malphite,Camille,Illaoi,Sylas,Darius
 Gragas,Kayn,Lee Sin,Shaco,Zac,Morgana,Volibear
 Graves,Kayn,Elise,Kindred,Rammus,Ekko,Diana
 Gwen,Sett,Urgot,Jax,Viego,Gnar,Shen
-Hecarim,Shaco,Morgana,Fiddlesticks,Nunu e Willump,Mordekaiser,Amumu
+Hecarim,Shaco,Morgana,Fiddlesticks,Nunu,Mordekaiser,Amumu
 Heimerdinger,Lux,Aatrox,Jayce,Viktor,Draven,Kennen
 Illaoi,Shen,Kled,Garen,Yorick,Ryze,Sett
 Irelia,Riven,Shen,Jax,Camille,Garen,Darius
-Ivern,Nocturne,Fiddlesticks,Morgana,Kha'Zix,Kayn,Master Yi
-Janna,Sona,Bardo,Ashe,Karma,Neeko,Annie
+Ivern,Nocturne,Fiddlesticks,Morgana,KhaZix,Kayn,Master Yi
+Janna,Sona,Bard,Ashe,Karma,Neeko,Annie
 Jarvan IV,Morgana,Fiddlesticks,Zac,Taliyah,Diana,Elise
-Jax,Malphite,Riven,Kha'Zix,Shen,Nunu e Willump,Wukong
+Jax,Malphite,Riven,KhaZix,Shen,Nunu,Wukong
 Jayce,Malphite,Sett,Wukong,Yorick,Nocturne,Urgot
 Jhin,Vayne,Jinx,Tristana,Swain,Annie,Karma
 Jinx,Ashe,Yasuo,Swain,Master Yi,Kayle,Viego
-Kai'Sa,Jinx,Vayne,Samira,Jhin,Kog'Maw,Tristana
+KaiSa,Jinx,Vayne,Samira,Jhin,KogMaw,Tristana
 Kalista,Ashe,Jinx,Tristana,Senna,Sivir,Twitch
 Karma,Lulu,Rakan,Morgana,Senna,Zyra,Blitzcrank
-Karthus,Nocturne,Kayn,Vel'Koz,Diana,Ekko,Kindred
+Karthus,Nocturne,Kayn,VelKoz,Diana,Ekko,Kindred
 Kassadin,Malzahar,Pantheon,Rumble,Neeko,Ahri,Singed
 Katarina,Galio,Vladimir,Yasuo,Diana,Viego,Kassadin
 Kayle,Sett,Wukong,Yorick,Vladimir,Jax,Jayce
 Kayn,Volibear,Nocturne,Shaco,Fiddlesticks,Poppy,Morgana
 Kennen,Wukong,Darius,Brand,Annie,Gnar,Kayle
-Kha'Zix,Diana,Master Yi,Volibear,Morgana,Fiddlesticks,Elise
+KhaZix,Diana,Master Yi,Volibear,Morgana,Fiddlesticks,Elise
 Kindred,Xin Zhao,Master Yi,Shaco,Kayn,Zac,Fiddlesticks
 Kled,Urgot,Volibear,Camille,Fiora,Pantheon,Swain
-Kog'Maw,Jhin,Jinx,Sivir,Yasuo,Twitch,Ashe
+KogMaw,Jhin,Jinx,Sivir,Yasuo,Twitch,Ashe
 LeBlanc,Ahri,Diana,Zyra,Rumble,Corki,Yasuo
-Lee Sin,Nocturne,Rek'Sai,Diana,Xin Zhao,Shen,Udyr
-Leona,Bardo,Morgana,Seraphine,Swain,Rakan,Zilean
-Lillia,Kayn,Hecarim,Kha'Zix,Fiddlesticks,Morgana,Karthus
-Lissandra,Fizz,Veigar,Viktor,Galio,Ekko,Vel'Koz
+Lee Sin,Nocturne,RekSai,Diana,Xin Zhao,Shen,Udyr
+Leona,Bard,Morgana,Seraphine,Swain,Rakan,Zilean
+Lillia,Kayn,Hecarim,KhaZix,Fiddlesticks,Morgana,Karthus
+Lissandra,Fizz,Veigar,Viktor,Galio,Ekko,VelKoz
 Lucian,Vayne,Jinx,Caitlyn,Jhin,Miss Fortune,Samira
 Lulu,Seraphine,Morgana,Xerath,Blitzcrank,Zyra,Janna
 Lux,Yuumi,Lulu,Zilean,Blitzcrank,Thresh,Swain
-Malphite,Sylas,Mordekaiser,Shen,Sion,Poppy,Cho'Gath
+Malphite,Sylas,Mordekaiser,Shen,Sion,Poppy,ChoGath
 Malzahar,Talon,Ahri,Diana,Morgana,Viktor,Riven
 Maokai,Yuumi,Viego,Jarvan IV,Janna,Amumu,Camille
 Master Yi,Udyr,Rammus,Kayn,Nocturne,Volibear,Morgana
@@ -79,78 +78,78 @@ Morgana,Nami,Seraphine,Nidalee,Braum,Fiddlesticks,Lux
 Nami,Zyra,Leona,Sona,Zed,Braum,Taric
 Nasus,Sylas,Yone,Elise,Jarvan IV,Anivia,Mordekaiser
 Nautilus,Leona,Alistar,Lulu,Seraphine,Nami,Braum
-Neeko,Ahri,Bardo,Seraphine,Diana,Lux,Xerath
-Nidalee,Hecarim,Diana,Kha'Zix,Kayn,Fiddlesticks,Volibear
+Neeko,Ahri,Bard,Seraphine,Diana,Lux,Xerath
+Nidalee,Hecarim,Diana,KhaZix,Kayn,Fiddlesticks,Volibear
 Nocturne,Morgana,Dr. Mundo,Wukong,Zac,Xin Zhao,Diana
-Nunu & Willump,Morgana,Master Yi,Xin Zhao,Amumu,Ekko,Yone
-Olaf,Diana,Volibear,Shaco,Udyr,Kayn,Kha'Zix
+Nunu,Morgana,Master Yi,Xin Zhao,Amumu,Ekko,Yone
+Olaf,Diana,Volibear,Shaco,Udyr,Kayn,KhaZix
 Orianna,Katarina,Vladimir,Galio,Talon,Annie,Kassadin
 Ornn,Shen,Viego,Trundle,Vayne,Nasus,Malphite
 Pantheon,Leona,Nautilus,Rakan,Yorick,Lux,Galio
 Poppy,Darius,Diana,Nasus,Warwick,Hecarim,Sett
-Pyke,Thresh,Lulu,Yuumi,Morgana,Bardo,Janna
+Pyke,Thresh,Lulu,Yuumi,Morgana,Bard,Janna
 Qiyana,Diana,Yasuo,Fizz,Ahri,Viktor,Zed
 Quinn,Malphite,Urgot,Maokai,Miss Fortune,Sion,Varus
 Rakan,Morgana,Lux,Zilean,Soraka,Alistar,Nami
-Rammus,Volibear,Amumu,Morgana,Kha'Zix,Hecarim,Dr. Mundo
-Rek'Sai,Morgana,Volibear,Graves,Elise,Evelynn,Hecarim
+Rammus,Volibear,Amumu,Morgana,KhaZix,Hecarim,Dr. Mundo
+RekSai,Morgana,Volibear,Graves,Elise,Evelynn,Hecarim
 Rell,Lux,Janna,Morgana,Alistar,Swain,Lulu
-Renekton,Jax,Cho'Gath,Darius,Gnar,Ornn,Garen
-Rengar,Kayn,Rammus,Master Yi,Elise,Xin Zhao,Nunu e Willump
-Riven,Darius,Viego,Cho'Gath,Teemo,Pantheon,Ornn
-Rumble,Master Yi,Kayn,Camille,Kha'Zix,Volibear,Fiddlesticks
+Renekton,Jax,ChoGath,Darius,Gnar,Ornn,Garen
+Rengar,Kayn,Rammus,Master Yi,Elise,Xin Zhao,Nunu
+Riven,Darius,Viego,ChoGath,Teemo,Pantheon,Ornn
+Rumble,Master Yi,Kayn,Camille,KhaZix,Volibear,Fiddlesticks
 Ryze,Yone,Vladimir,Zed,Malzahar,Yasuo,Galio
 Samira,Jinx,Ashe,Jhin,Senna,Varus,Yone
-Sejuani,Morgana,Kha'Zix,Olaf,Udyr,Zac,Nocturne
+Sejuani,Morgana,KhaZix,Olaf,Udyr,Zac,Nocturne
 Senna,Blitzcrank,Nautilus,Leona,Lulu,Braum,Morgana
 Seraphine,Yuumi,Nami,Yasuo,Katarina,Galio,Lux
 Sett,Lulu,Yorick,Ornn,Senna,Thresh,Leona
 Shaco,Xin Zhao,Diana,Morgana,Fiddlesticks,Nocturne,Senna
 Shen,Riven,Urgot,Sett,Garen,Kled,Leona
-Shyvana,Nocturne,Olaf,Nunu e Willump,Warwick,Fizz,Kha'Zix
+Shyvana,Nocturne,Olaf,Nunu,Warwick,Fizz,KhaZix
 Singed,Darius,Aatrox,Garen,Lulu,Xayah,Brand
-Sion,Cho'Gath,Aatrox,Sett,Shen,Maokai,Gnar
+Sion,ChoGath,Aatrox,Sett,Shen,Maokai,Gnar
 Sivir,Ashe,Jinx,Karthus,Caitlyn,Lucian,Yone
 Skarner,Jarvan IV,Hecarim,Diana,Poppy,Vi,Rengar
 Sona,Lulu,Senna,Leona,Fiddlesticks,Braum,Qiyana
 Soraka,Yuumi,Sona,Morgana,Janna,Lulu,Nami
 Swain,Lulu,Morgana,Karma,Ziggs,Brand,Katarina
 Sylas,Malzahar,Urgot,Galio,Sett,Ahri,Annie
-Syndra,Kassadin,Katarina,Vladimir,Kai'Sa,Malzahar,Akali
-Tahm Kench,Mordekaiser,Yorick,Senna,Shen,Cho'Gath,Ezreal
-Taliyah,Morgana,Diana,Zed,Ekko,Nunu e Willump,Leona
+Syndra,Kassadin,Katarina,Vladimir,KaiSa,Malzahar,Akali
+Tahm Kench,Mordekaiser,Yorick,Senna,Shen,ChoGath,Ezreal
+Taliyah,Morgana,Diana,Zed,Ekko,Nunu,Leona
 Talon,Annie,Akali,Swain,Katarina,Yasuo,Lissandra
-Taric,Lulu,Senna,Leona,Vel'Koz,Lee Sin,Sylas
+Taric,Lulu,Senna,Leona,VelKoz,Lee Sin,Sylas
 Teemo,Malphite,Aatrox,Urgot,Wukong,Ahri,Maokai
-Thresh,Lulu,Nami,Leona,Soraka,Bardo,Nautilus
-Tristana,Jinx,Kog'Maw,Samira,Ashe,Lucian,Twisted Fate
-Trundle,Mordekaiser,Volibear,Urgot,Nunu e Willump,Hecarim,Rumble
+Thresh,Lulu,Nami,Leona,Soraka,Bard,Nautilus
+Tristana,Jinx,KogMaw,Samira,Ashe,Lucian,Twisted Fate
+Trundle,Mordekaiser,Volibear,Urgot,Nunu,Hecarim,Rumble
 Tryndamere,Urgot,Malphite,Sion,Gnar,Wukong,Ashe
-Twisted Fate,Lux,Seraphine,Vel'Koz,Qiyana,Katarina,Yasuo
-Twitch,Kai'Sa,Senna,Yasuo,Jhin,Tristana,Miss Fortune
-Udyr,Kha'Zix,Volibear,Zac,Diana,Hecarim,Warwick
+Twisted Fate,Lux,Seraphine,VelKoz,Qiyana,Katarina,Yasuo
+Twitch,KaiSa,Senna,Yasuo,Jhin,Tristana,Miss Fortune
+Udyr,KhaZix,Volibear,Zac,Diana,Hecarim,Warwick
 Urgot,Malphite,Sion,Garen,Camille,Wukong,Vladimir
-Varus,Jinx,Tristana,Kog'Maw,Vayne,Ahri,Zed
-Vayne,Jinx,Ashe,Kog'Maw,Mordekaiser,Nasus,Teemo
+Varus,Jinx,Tristana,KogMaw,Vayne,Ahri,Zed
+Vayne,Jinx,Ashe,KogMaw,Mordekaiser,Nasus,Teemo
 Veigar,Yone,Kennen,Malzahar,Karma,Nami,Annie
-Vel'Koz,Thresh,Akali,Katarina,Jhin,Lulu,Neeko
+VelKoz,Thresh,Akali,Katarina,Jhin,Lulu,Neeko
 Vi,Hecarim,Poppy,Volibear,Jarvan IV,Xin Zhao,Mordekaiser
-Viego,Nunu e Willump,Elise,Udyr,Evelynn,Hecarim,Shaco
-Viktor,Yone,Vladimir,Corki,Cho'Gath,Swain,Vel'Koz
+Viego,Nunu,Elise,Udyr,Evelynn,Hecarim,Shaco
+Viktor,Yone,Vladimir,Corki,ChoGath,Swain,VelKoz
 Vladimir,Malzahar,Diana,Gnar,LeBlanc,Twisted Fate,Morgana
 Volibear,Nasus,Diana,Ekko,Viego,Fiddlesticks,Wukong
 Warwick,Volibear,Ekko,Rammus,Hecarim,Sejuani,Fiddlesticks
-Wukong,Nasus,Cho'Gath,Warwick,Camille,Malphite,Alistar
-Xayah,Jinx,Samira,Senna,Kai'Sa,Caitlyn,Jhin
-Xerath,Leona,Zilean,Annie,Veigar,Bardo,Kayle
+Wukong,Nasus,ChoGath,Warwick,Camille,Malphite,Alistar
+Xayah,Jinx,Samira,Senna,KaiSa,Caitlyn,Jhin
+Xerath,Leona,Zilean,Annie,Veigar,Bard,Kayle
 Xin Zhao,Volibear,Hecarim,Warwick,Jax,Malphite,Rumble
 Yasuo,Vladimir,Lissandra,Yone,Anivia,Annie,Viego
 Yone,Vladimir,Anivia,Ahri,Viego,Kassadin,Camille
-Yorick,Wukong,Cho'Gath,Morgana,Camille,Gnar,Yone
+Yorick,Wukong,ChoGath,Morgana,Camille,Gnar,Yone
 Yuumi,Lulu,Leona,Thresh,Nautilus,Galio,Nami
-Zac,Morgana,Amumu,Nunu e Willump,Shaco,Mordekaiser,Diana
+Zac,Morgana,Amumu,Nunu,Shaco,Mordekaiser,Diana
 Zed,Vladimir,Malzahar,Ekko,Annie,Pantheon,LeBlanc
 Ziggs,Malzahar,LeBlanc,Samira,Maokai,Twitch,Brand
-Zilean,Bardo,Janna,Jinx,Vel'Koz,Karma,Vayne
+Zilean,Bard,Janna,Jinx,VelKoz,Karma,Vayne
 Zoe,Katarina,Ahri,Yasuo,Xerath,Orianna,Malphite
 Zyra,Xerath,Leona,Rakan,Galio,Yasuo,Kayle

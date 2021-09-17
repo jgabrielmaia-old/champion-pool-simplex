@@ -1,11 +1,17 @@
-from extraction.counterpick import counterpicks
-from extraction.stats import stats
-from extraction.cost import costs
-from extraction.positions import positions
-from extraction.similarity import similarity
+from transformation.transform_counterpicks import transform_counterpicks
+from transformation.champions_dict import create_dict
+from extraction.counterpick import extract_counterpicks
+from extraction.stats import extract_stats
+from extraction.cost import extract_costs
+from extraction.positions import extract_positions
+from extraction.similarity import extract_similarity
 
-costs()
-positions()
-similarity()
-stats()
-counterpicks()
+extract_costs()
+extract_positions()
+extract_similarity()
+extract_stats()
+extract_counterpicks()
+
+create_dict()
+
+transform_counterpicks()

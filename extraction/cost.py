@@ -6,7 +6,7 @@ import os.path
 # Extracts the cost of buying for each champion
 # Costs: Blue Essence, Riot Points
 
-def costs():
+def extract_costs():
   filename = "data/costs.txt"
   if os.path.isfile(filename):
     return
@@ -20,7 +20,7 @@ def costs():
 
   def extract_cost(cost_row):
     cost_champion = cost_row.find_all("td")
-    cost_info = [cost_champion[attribute].text.strip() for attribute in [4,5]]
+    cost_info = [cost_champion[attribute].replace('\'','').text.strip() for attribute in [4,5]]
     cost_info.insert(0,cost_champion[0]["data-sort-value"])
     return ','.join(cost_info) + "\n"
 
