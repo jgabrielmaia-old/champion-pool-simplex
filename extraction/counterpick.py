@@ -20,7 +20,7 @@ def extract_counterpick(champion):
     return []
 
   counterpicks = [counterpick.text for counterpick in counterpick_element.find_all('h4')]
-  counterpicks.insert(0,champion)
+  counterpicks.insert(0,champion.replace('\'',''))
 
   print(f"Found {champion} counterpicks.")
 
@@ -28,13 +28,13 @@ def extract_counterpick(champion):
 
   return counterpicks
 
-def counterpicks():
+def extract_counterpicks():
   filename = "data/counterpicks.txt"
   if os.path.isfile(filename):
     return
 
-  with open("data/positions.txt") as f:
-    champion_names = [line.split(',')[0] for line in f.readlines()]
+  with open("data/positions.txt") as file:
+    champion_names = [line.split(',')[0] for line in file.readlines()]
     print(f"counterpicks: {len(champion_names)} champions found.")
 
     counterpicks = [extract_counterpick(name) for name in champion_names]

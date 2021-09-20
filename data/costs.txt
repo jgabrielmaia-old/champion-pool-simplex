@@ -17,7 +17,7 @@ Braum,4800,880
 Caitlyn,4800,880
 Camille,6300,975
 Cassiopeia,4800,880
-Cho'Gath,1350,585
+ChoGath,1350,585
 Corki,3150,790
 Darius,4800,880
 Diana,4800,880
@@ -48,7 +48,7 @@ Jax,1350,585
 Jayce,4800,880
 Jhin,6300,975
 Jinx,4800,880
-Kai'Sa,6300,975
+KaiSa,6300,975
 Kalista,4800,880
 Karma,3150,790
 Karthus,3150,790
@@ -57,10 +57,10 @@ Katarina,3150,790
 Kayle,450,260
 Kayn,6300,975
 Kennen,4800,880
-Kha'Zix,4800,880
+KhaZix,4800,880
 Kindred,6300,975
 Kled,6300,975
-Kog'Maw,4800,880
+KogMaw,4800,880
 LeBlanc,3150,790
 Lee Sin,4800,880
 Leona,4800,880
@@ -82,7 +82,7 @@ Nautilus,4800,880
 Neeko,6300,975
 Nidalee,3150,790
 Nocturne,4800,880
-Nunu & Willump,450,260
+Nunu,450,260
 Olaf,3150,790
 Orianna,4800,880
 Ornn,6300,975
@@ -93,7 +93,7 @@ Qiyana,6300,975
 Quinn,4800,880
 Rakan,6300,975
 Rammus,1350,585
-Rek'Sai,4800,880
+RekSai,4800,880
 Rell,6300,975
 Renekton,4800,880
 Rengar,4800,880
@@ -133,7 +133,7 @@ Urgot,3150,790
 Varus,4800,880
 Vayne,4800,880
 Veigar,1350,585
-Vel'Koz,4800,880
+VelKoz,4800,880
 Vi,4800,880
 Viego,6300,975
 Viktor,4800,880

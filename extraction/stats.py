@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # stats per champion
-def stats():
+def extract_stats():
   filename = "data/stats.txt"
   if os.path.isfile(filename):
     return
@@ -17,12 +17,12 @@ def stats():
   print(f"stats: {len(stats_rows[1:])} champions found.")
 
   def extract_stats(row):
-    name = row.find('td', {'class', 'ChampionName'}).text.strip()
-    victory_rate = row.find('span', {'class', 'Value'}).text.strip()
+    name = row.find('td', {'class', 'ChampionName'}).text.replace('\'','').strip()
+    victory_rate = row.find('span', {'class', 'Value'}).text.replace('%', '').strip()
     games = row.find_all('td', {'class', 'Cell'})[4].text.replace(',','').strip()
     kda = row.find('td', {'class', 'KDARatio'}).text.split(":")[0].strip()
     cs = row.find('span', {'class', 'Value Green'}).text.strip()
-    gold = row.find('span', {'class', 'Value Orange'}).text.replace(',','.').strip()
+    gold = row.find('span', {'class', 'Value Orange'}).text.replace(',','').strip()
     stats_attributes = [name,victory_rate,games,kda,cs,gold]
     return ','.join(stats_attributes) + "\n"
 
