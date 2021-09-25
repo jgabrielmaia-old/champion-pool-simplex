@@ -1,5 +1,5 @@
-import ast
 import os
+from transformation.champions_dict import read_dictionary
 
 def transform_counterpicks():
     filename = "data/nullifiers.txt"
@@ -16,11 +16,6 @@ def transform_counterpicks():
     outfile = open(filename, "w")
     outfile.write(content)
     outfile.close()
-
-def read_dictionary(path):
-    with open(path) as file:
-        contents = file.read()
-        return ast.literal_eval(contents)
 
 def find_nullifiers(path, champion_dict):
     with open(path) as counterpicks_file:

@@ -1,7 +1,6 @@
 Aatrox,4800,880
 Ahri,3150,790
 Akali,3150,790
-Akshan,6300,975
 Alistar,1350,585
 Amumu,450,260
 Anivia,3150,790
