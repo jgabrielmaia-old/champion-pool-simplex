@@ -6,6 +6,7 @@ verify_ssl = true
 [packages]
 requests = "==2.26.0"
 beautifulsoup4 = "==4.10.0"
+pymprog = "==1.1.2"
 
 [requires]
 python_version="3.9.7"

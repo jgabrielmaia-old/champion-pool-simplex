@@ -1,7 +1,6 @@
 Aatrox,3,3,2,2,2,2
 Ahri,3,1,2,3,1,2
 Akali,3,1,1,3,1,2
-Akshan,3,1,1,3,2,3
 Alistar,1,3,3,1,2,1
 Amumu,2,3,3,1,1,1
 Anivia,3,1,3,1,2,3
@@ -59,7 +58,6 @@ Kayn,3,1,1,3,1,3
 Kennen,3,1,3,1,1,2
 KhaZix,3,1,1,2,1,2
 Kindred,3,1,2,3,2,3
-Kled & Skaarl,3,2,1,3,1,2
 Kled,3,2,1,2,1,2
 KogMaw,3,1,1,1,1,2
 LeBlanc,3,1,2,3,1,2
@@ -74,7 +72,6 @@ Malphite,1,3,3,1,1,1
 Malzahar,3,1,3,1,2,1
 Maokai,1,3,3,1,2,1
 Master Yi,3,1,1,2,1,1
-Mega Gnar,2,3,2,1,1,2
 Miss Fortune,3,1,1,1,1,1
 Mordekaiser,3,2,1,1,2,2
 Morgana,2,1,3,1,2,1

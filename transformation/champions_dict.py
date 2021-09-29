@@ -1,4 +1,5 @@
 import os
+import ast
 
 def create_dict():
     filename = "data/champions_dict.txt"
@@ -15,3 +16,7 @@ def create_dict():
         outfile.write(str(champions_dict))
         outfile.close()
  
+def read_dictionary(path):
+    with open(path) as file:
+        contents = file.read()
+        return ast.literal_eval(contents)
